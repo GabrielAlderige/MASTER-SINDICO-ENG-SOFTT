@@ -1,6 +1,7 @@
 # Master Síndico
 
 Este documento descreve o produto na metodologia **Lean Inception**.
+Trabalho da matéria Engenharia de Software da PUC Minas, sexto período
 
 ---
 
