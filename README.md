@@ -195,3 +195,21 @@ Responsável por organizar correspondências e comunicar moradores sobre entrega
 
 
 ---
+
+
+Imagens:
+
+Login:
+![tela de login alta qualidade](../MASTER-SINDICO-ENG-SOFTT/public/login.PNG)
+
+Inicio:
+![tela de Inicio alta qualidade](../MASTER-SINDICO-ENG-SOFTT/public/inicio.PNG)
+
+Area comuns:
+![tela de areas comuns alta qualidade](../MASTER-SINDICO-ENG-SOFTT/public/areas%20comuns.PNG)
+
+Gestão de Entregas:
+![tela de Entregas alta qualidade](../MASTER-SINDICO-ENG-SOFTT/public/gestaoEntregas.PNG)
+
+Manutenção:
+![tela de Manutenção alta qualidade](../MASTER-SINDICO-ENG-SOFTT/public/manutencao.PNG)
