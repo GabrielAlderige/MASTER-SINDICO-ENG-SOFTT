@@ -197,19 +197,19 @@ Responsável por organizar correspondências e comunicar moradores sobre entrega
 ---
 
 
-Imagens:
+# Imagens:
 
-###Login:
+### Login:
 ![tela de login alta qualidade](/public/login.PNG)
 
-###Inicio:
+### Inicio:
 ![tela de Inicio alta qualidade](/public/inicio.PNG)
 
-###Area comuns:
+### Area comuns:
 ![tela de areas comuns alta qualidade](/public/areas%20comuns.PNG)
 
-###Gestão de Entregas:
+### Gestão de Entregas:
 ![tela de Entregas alta qualidade](/public/gestaoEntregas.PNG)
 
-###Manutenção:
+### Manutenção:
 ![tela de Manutenção alta qualidade](/public/manutencao.PNG)
